@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning React.JS
 -   👯 I’m looking to collaborate with other Front End Developer
--   🥅 2020 Goals: become a front end developer in Yogyakarta
+-   🥅 2021 Goals: become a front end developer in Yogyakarta
 -   😄 Pronouns: indonesia / english
 -   ⚡ Fun fact: i love to write poetry
 
