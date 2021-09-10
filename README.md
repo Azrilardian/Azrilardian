@@ -1,6 +1,7 @@
 ### Hi there. I am Azril Ardian. 👋
 *irfan05ariell@gmail.com \| irfanariell0@gmail.com*
-<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 
 Loves💙to write poetry but very comfortable in programming. Experienced in Web Developer (Front End Developer). Learn also in the field of design using Adobe XD and Figma tools.
 
