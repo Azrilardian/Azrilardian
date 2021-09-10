@@ -1,7 +1,8 @@
-### Hi there, i'm Azrilardian
+### Hi there. I am Azril Ardian. 👋
+*irfan05ariell@gmail.com \| irfanariell0@gmail.com*
+<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
-[![Website](https://img.shields.io/website?label=azrilardian.com&style=for-the-badge&url=https%3A%2F%2Fazrilardian.vercel.app)](https://azrilardian.vercel.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/azrilardian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fazrilardian&screen_name=azrilardian)
+Loves💙to write poetry but very comfortable in programming. Experienced in Web Developer (Front End Developer). Learn also in the field of design using Adobe XD and Figma tools.
 
 -   🌱 I’m currently learning React.JS
 -   👯 I’m looking to collaborate with other Front End Developer
@@ -9,36 +10,34 @@
 -   😄 Pronouns: indonesia / english
 -   ⚡ Fun fact: i love to write poetry
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-[website]: https://azrilardian.vercel.app
-[twitter]: https://twitter.com/azrilardian
-[instagram]: https://instagram.com/azrilardian_
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
+### Stats
+<table>
+  <tr>
+    <td> :one: Internships Completed </td>
+    <td> :one::one: Projects Completed </td>
+    <td>  :two: Guided Projects  </td>
+  </tr>
+  <tr>
+    <td>  :two::zero: Certificated  </td>
+    <td>  :three::four: Github Repo </td>
+    <td>  :one::six: Online Courses  </td>
+  </tr>
+</table>
 
 [![Azrilardian GitHub stats](https://github-readme-stats.vercel.app/api?username=azrilardian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrilardian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Technical Skills
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
+<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> </br>
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+
+### Contact Me
+|  <a href="https://github.com/azrilardian"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|📞 *08814604234*|
+|✉️ *irfan05ariell@gmail.com \| irfanariell0@gmail.com*|
+|<a href="https://azrilardian.vercel.app/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rohit-kasale/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/rkasale28"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
