@@ -2,12 +2,11 @@
 *irfan05ariell@gmail.com \| irfanariell0@gmail.com*
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
+Very enthusiastic in website development💙. has a strong desire to become a high quality front end developer. flexible with new technology and adapt quickly. Have good individual and team work skills.
 
-Loves💙to write poetry but very comfortable in programming. Experienced in Web Developer (Front End Developer). Learn also in the field of design using Adobe XD and Figma tools.
-
--   🌱 I’m currently learning React.JS
+-   🌱 I’m currently learning Shopify
 -   👯 I’m looking to collaborate with other Front End Developer
--   🥅 2021 Goals: become a better front end developer
+-   🥅 2022 Goals: become a better front end developer
 -   😄 Pronouns: indonesia / english
 -   ⚡ Fun fact: i love to write poetry
 
@@ -15,8 +14,8 @@ Loves💙to write poetry but very comfortable in programming. Experienced in Web
 <table>
   <tr>
     <td> :one: Internships Completed </td>
-    <td> :one::one: Projects Completed </td>
-    <td>  :two: Guided Projects  </td>
+    <td> :two::zero: Projects Completed </td>
+    <td>  :five: Guided Projects  </td>
   </tr>
   <tr>
     <td>  :two::nine: Certificated  </td>
