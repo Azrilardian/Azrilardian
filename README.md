@@ -19,7 +19,7 @@ Very enthusiastic in website development💙. Has a strong desire to become a hi
   </tr>
   <tr>
     <td>  :two::nine: Certificated  </td>
-    <td>  :three::four: Github Repo </td>
+    <td>  :three::nine: Github Repo </td>
     <td>  :one::six: Online Courses  </td>
   </tr>
 </table>
