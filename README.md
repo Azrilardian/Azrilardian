@@ -19,7 +19,7 @@ Loves💙to write poetry but very comfortable in programming. Experienced in Web
     <td>  :two: Guided Projects  </td>
   </tr>
   <tr>
-    <td>  :two::zero: Certificated  </td>
+    <td>  :two::nine: Certificated  </td>
     <td>  :three::four: Github Repo </td>
     <td>  :one::six: Online Courses  </td>
   </tr>
