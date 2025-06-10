@@ -4,9 +4,8 @@
 
 Very enthusiastic in website development💙. Has a strong desire to become a high quality front end developer. Flexible with new technology and adapt quickly. Have good individual and team work skills.
 
--   🌱 I’m currently learning Shopify
 -   👯 I’m looking to collaborate with other Front End Developer
--   🥅 2022 Goals: become a better front end developer
+-   🥅 2025 Goals: become a better front end developer
 -   😄 Pronouns: indonesia / english
 -   ⚡ Fun fact: i love to write poetry
 
