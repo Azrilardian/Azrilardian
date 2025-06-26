@@ -1,5 +1,3 @@
-### Hi there. I am Azril Ardian. 👋
-*irfan05ariell@gmail.com*
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 Very enthusiastic in website development💙. Has a strong desire to become a high quality front end developer. Flexible with new technology and adapt quickly. Have good individual and team work skills.
